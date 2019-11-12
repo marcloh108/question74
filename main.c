@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Add a comment to test new branch
+
 int test(int nums[], int array_size)
 {
     for (int i =0; i < array_size; i++)
